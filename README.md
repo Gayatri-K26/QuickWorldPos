@@ -122,7 +122,7 @@ Run All Tests
 Run with Coverage Report
 ```bashpoetry run pytest test_get_world_position.py --cov=get_world_position --cov-report=term-missing```
 Test Results
-✅ 17/17 tests passing (100%)
+17/17 tests passing (100%)
 
 Test Categories:
 ├─ Basic Functionality (4 tests)
