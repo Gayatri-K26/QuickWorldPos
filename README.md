@@ -24,7 +24,7 @@ Batch optimization - XformCache-powered batch queries for 5-10x speedup
 Full transform decomposition - Optional function for rotation and scale
 Comprehensive test suite - 17 tests with 100% pass rate
 
-**🚀 Quick Start**
+**Quick Start**
 Installation
 ```
 # Clone the repository
